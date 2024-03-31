@@ -1,0 +1,25 @@
+body{
+  text-align: center;
+}
+
+#gambar{
+  padding: 15px;
+  height: 250px;
+}
+
+p{
+  font-size: 16pt;
+}
+
+.tombol{
+  padding: 10px;
+}
+
+button{
+  width: 150px;
+  padding: 3px;
+}
+
+#ff{
+  font-style: italic;
+}
